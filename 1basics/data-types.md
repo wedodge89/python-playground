@@ -1,0 +1,7 @@
+# Python Data Types
+
+## Fundamental Data Types
+
+**int**-Integer. Any whole number. Can be used in mathematical operations. (e.g. 3, 5, 8, 138)
+
+**float**-Floating Point Number. A number with decimal values. Can also be used in mathematical operations. Takes up much more memory than *int*s. (e.g. 5.6, 0.00003, 9.09)
