@@ -1,7 +1,7 @@
 # int/float
 
 # addition
-print(2 + 4)
+print(2+4)
 print(type(2 + 4))
 
 # subtraction
@@ -42,3 +42,13 @@ print(14 // 5)
 print(10 % 4)
 print(101 % 10)
 print(1000 % 120)
+
+# round
+print(round(3.1))
+print(round(3.5))
+
+# absolute value
+print(abs(20))
+print(abs(-20))
+
+# operator precedence (PEMDAS)
