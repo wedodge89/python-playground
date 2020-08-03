@@ -56,3 +56,17 @@ print(abs(-20))
 # **
 # * /
 # + -
+
+# bin() translates numbers into binary notation, preceded by "0b" indicator
+print(bin(1))
+print(bin(2))
+print(bin(3))
+print(bin(4))
+print(bin(5))
+
+# to translate from binary, use int() with 2 as second argument
+print(int("0b1", 2))
+print(int("0b10", 2))
+print(int("0b11", 2))
+print(int("0b100", 2))
+print(int("0b101", 2))
