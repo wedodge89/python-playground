@@ -52,3 +52,7 @@ print(abs(20))
 print(abs(-20))
 
 # operator precedence (PEMDAS)
+# ()
+# **
+# * /
+# + -
