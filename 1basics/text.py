@@ -52,3 +52,15 @@ print(alphabet[::-2])
 
 # immutability
 # Strings can be changed in whole, but not in part.
+
+# built in string methods
+quote = "why men great 'til they gotta be great?"
+
+print(quote.upper())
+print(quote.capitalize())
+print(quote.find("be"))
+print(quote.replace("be", "fart"))
+print(quote)
+# ^These methods do not mutate the original string. They create a new string with these conditions.
+quote2 = quote.replace("be", "fart")
+print(quote2)
