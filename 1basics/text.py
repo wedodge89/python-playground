@@ -49,3 +49,6 @@ print(alphabet[-1])
 print(alphabet[-2])
 print(alphabet[::-1])
 print(alphabet[::-2])
+
+# immutability
+# Strings can be changed in whole, but not in part.
