@@ -9,3 +9,5 @@
 **str**-String. A collection of letters, numbers, symbols, emojis, etc. that is treated as a single unit of text, contained within either single or double quotation marks.
 
 **bool**-Boolean. A true/false binary. Logical values often used for conditionals. 
+
+**list**-List. Denoted by square brackets []. A list of like or unlike data. Basically equivalent to arrays in other programming languages.
