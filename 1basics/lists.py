@@ -44,6 +44,7 @@ print(basket)
 basket.extend([100, 101])
 print(basket)
 # remove last item
+# Note: pop() returns the item removed
 basket.pop()
 print(basket)
 basket.pop()
