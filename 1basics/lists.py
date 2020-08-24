@@ -31,7 +31,7 @@ print(matrix[1][2])
 print(matrix[2][0])
 
 # List methods
-basket = [1, 2, 3, 4, 5]
+basket = [1, 2, 3, 4, 5, 7, 6]
 print(len(basket))
 print(basket)
 # add one item to end of list
@@ -54,4 +54,22 @@ basket.pop(0)
 print(basket)
 # remove value
 basket.remove(4)
+print(basket)
+# print index
+print(basket.index(2))
+# find value in list
+print(2 in basket)
+print("i" in "Elliott")
+# count number of times value occurs in list
+print(basket.count(2))
+# sorts the list (mutates, doesn't return)
+basket.sort()
+print(basket)
+# sorts and returns new list
+print(sorted(basket))
+# copies list into new list
+new_basket = basket.copy()
+print(new_basket)
+# reverses the order of a list
+basket.reverse()
 print(basket)
