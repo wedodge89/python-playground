@@ -11,3 +11,5 @@
 **bool**-Boolean. A true/false binary. Logical values often used for conditionals. 
 
 **list**-List. Denoted by square brackets []. A list of like or unlike data. Basically equivalent to arrays in other programming languages.
+
+**None**-None. Represents an absence of value, such as when a function does not return any data. Roughly equivalent to Null in other programming languages.
