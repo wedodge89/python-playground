@@ -13,3 +13,5 @@
 **list**-List. Denoted by square brackets []. A list of like or unlike data. Basically equivalent to arrays in other programming languages.
 
 **None**-None. Represents an absence of value, such as when a function does not return any data. Roughly equivalent to Null in other programming languages.
+
+**dict**-Dictionary. Both a data type and a data structure. A dictionary is denoted by {} and made of one or more key-value pairs.
