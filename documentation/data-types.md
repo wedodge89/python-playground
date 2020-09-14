@@ -15,3 +15,5 @@
 **None**-None. Represents an absence of value, such as when a function does not return any data. Roughly equivalent to Null in other programming languages.
 
 **dict**-Dictionary. Both a data type and a data structure. A dictionary is denoted by {} and made of one or more key-value pairs.
+
+**tuple**-Tuple. Essentially an immutable list.
