@@ -17,3 +17,5 @@
 **dict**-Dictionary. Both a data type and a data structure. A dictionary is denoted by {} and made of one or more key-value pairs.
 
 **tuple**-Tuple. Essentially an immutable list. This immutability increases performance. Denoted by ().
+
+**set**-Set. Unordered collections of unique objects. Denoted by {}, but does not use key-value pairs like dictionaries.
