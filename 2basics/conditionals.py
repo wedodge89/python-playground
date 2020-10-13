@@ -15,13 +15,13 @@ else:
     print("No dice, bro.")
 
 # Alternative approach:
-if is_old and is_licensed:
-    print("You can drive.")
-elif is_old and not is_licensed:
-    print("Age ain't everything.")
-elif is_licensed and not is_old:
-    print("That must be a fake license.")
-else:
-    print("You need to grow up and get a license.")
+# if is_old and is_licensed:
+#     print("You can drive.")
+# elif is_old and not is_licensed:
+#     print("Age ain't everything.")
+# elif is_licensed and not is_old:
+#     print("That must be a fake license.")
+# else:
+#     print("You need to grow up and get a license.")
 
 
