@@ -1,20 +1,20 @@
 # Data Types
 ## Fundamental Data Types
-### -int
-    Integer. Any whole number.
-### -float
-    A number with a decimal
-### -bool
-    Boolean. A binary, true/false value.
-### -str
+### int
+**Integer**: Any whole number. (e.g. 1, 4, 18)
+### float
+**Floating point number**: A number with a decimal. Used when numbers need to be more precise than integers allow. (e.g. 1.6, 4.35, 6.00)
+### bool
+**Boolean**: A binary, true/false value.
+### str
+**String**: A collection of one or more characters to be interpreted as a piece of text.
+### list
 
-### -list
+### tuple
 
-### -tuple
+### set
 
-### -set
-
-### -dict
+### dict
 
 ## Classes
 Custom types, as created by the user.

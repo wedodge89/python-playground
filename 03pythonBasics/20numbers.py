@@ -1,0 +1,38 @@
+print("-Performing Mathematic Functions-")
+print("-Print Data Type of Results Below-")
+print(2 + 4)
+print(type(2 + 4))
+print(2 - 4)
+print(type(2 - 4))
+print(2 * 4)
+print(type(2 * 4))
+print(2 / 4)
+print(type(2 / 4))
+
+print("-What type is 0?-")
+print(0)
+print(type(0))
+
+print("-Sum of Integer and Float-")
+print(20 + 1.1)
+print(type(20 + 1.1))
+
+print("-Sum of Two Floats-")
+print(9.9 + 0.1)
+print(type(9.9 + 0.1))
+
+print("-Exponents (**)-")
+print(2 ** 2)
+print(2 ** 3)
+print(2 ** 4)
+
+print("-Floor Division (//)-")
+print(2 // 4)
+print(5 // 4)
+print(10 // 2)
+
+print("-Modulo/Remainder (%)-")
+print(5 % 4)
+print(6 % 4)
+print(7 % 4)
+print(8 % 4)
