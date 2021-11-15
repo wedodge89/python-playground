@@ -16,6 +16,9 @@
 
 ### dict
 
+### complex
+**Complex Number**: A number containing both real and imaginary parts.
+
 ## Classes
 Custom types, as created by the user.
 

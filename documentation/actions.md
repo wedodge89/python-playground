@@ -1,7 +1,11 @@
-print
+print()
 
-type
+type()
 
-round
+round()
 
-abs
+abs()
+
+bin()
+
+int()
