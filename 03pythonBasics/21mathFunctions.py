@@ -1,0 +1,11 @@
+print("rounding numbers")
+print("rounding 3.1")
+print(round(3.1))
+print("rounding 3.9")
+print(round(3.9))
+
+print("absolute value")
+print("absolute value of -20")
+print(abs(-20))
+print("absolute value of 20")
+print(abs(20))
