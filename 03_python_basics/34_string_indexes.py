@@ -1,0 +1,21 @@
+string = "01234567"
+print(string[0])
+print(string[1])
+print(string[2])
+print(string[3])
+print(string[4])
+print(string[5])
+print(string[6])
+print(string[7])
+
+# [start:stop(before):stepover]
+print(string[0:4])
+print(string[3:7])
+print(string[0:8])
+print(string[0:8:2])
+print(string[1:])
+print(string[:5])
+print(string[::1])
+print(string[-1])
+print(string[-1:])
+print(string[::-1])
