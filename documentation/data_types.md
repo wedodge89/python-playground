@@ -1,23 +1,23 @@
 # Data Types
 ## Fundamental Data Types
-### int
-**Integer**: Any whole number. (e.g. 1, 4, 18)
-### float
-**Floating point number**: A number with a decimal. Used when numbers need to be more precise than integers allow. (e.g. 1.6, 4.35, 6.00)
-### bool
-**Boolean**: A binary, true/false value.
-### str
-**String**: A collection of one or more characters to be interpreted as a piece of text.
-### list
+### **Integer**
+_-int_: Any whole number. (e.g. 1, 4, 18)
+### **Floating point number**
+_-float_: A number with a decimal. Used when numbers need to be more precise than integers allow. (e.g. 1.6, 4.35, 6.00)
+### **Boolean** 
+_-bool_: A binary, true/false value.
+### **String**
+-_str_: A collection of one or more characters to be interpreted as a piece of text.
+### **List**
+_-list_: Similar to arrays in other programming languages. An ordered collection of data that may be of the same or different data types.
+### **Tuple**
 
-### tuple
+### **Set**
 
-### set
+### **Dictionary**
 
-### dict
-
-### complex
-**Complex Number**: A number containing both real and imaginary parts.
+### **Complex Number**
+_-complex_: A number containing both real and imaginary parts.
 
 ## Classes
 Custom types, as created by the user.
