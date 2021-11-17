@@ -17,5 +17,5 @@ Round a number to the nearest integer.
 Return the data type of the argument.
 
 ## Built-In Methods
-### String Methods 
+### -String Methods 
 #### .format()

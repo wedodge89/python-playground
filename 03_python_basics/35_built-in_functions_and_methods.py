@@ -1,0 +1,10 @@
+quote = "to be oR noT to be?"
+print("Original: " + quote)
+print("Upper: " + quote.upper())
+print("Capitalize: " + quote.capitalize())
+print("Lower: " + quote.lower())
+print("Find (be): " + str(quote.find("be")))
+print("Replace (be/pee): " + quote.replace("be", "pee"))
+print(quote)
+quote2 = quote.replace("be", "pee")
+print(quote2)
