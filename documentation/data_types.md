@@ -15,7 +15,7 @@ _-list_: Similar to arrays in other programming languages. An ordered collection
 ### **Set**
 
 ### **Dictionary**
-
+_-dict-_: An object made up of unordered key/value pairs. Items within are accessed using the key, rather than an index.
 ### **Complex Number**
 _-complex_: A number containing both real and imaginary parts.
 

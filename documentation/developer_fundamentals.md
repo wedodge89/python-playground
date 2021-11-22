@@ -11,3 +11,8 @@ Guidelines:
 * Comments should always add clarity.
 * Can this comment be fixed with more readable code?
 * See [Writing Comments in Python (Guide)](https://realpython.com/python-comments-guide/) by Jaya Zhané
+
+## 3. Understanding Data Structures
+Some data structures make more sense in certain situations than others. A good programmer gets familiar with these situations so that they can use the best, most efficient data for a given situation.
+* _Lists_ work well for data that needs to stay in order.
+* _Dictionaries_ work well for data where order is not important, but where different values and data types work together.
