@@ -11,7 +11,7 @@ _-bool_: A binary, true/false value.
 ### **List**
 _-list_: Similar to arrays in other programming languages. An ordered collection of data that may be of the same or different data types.
 ### **Tuple**
-
+_-tuple-_: Similar to lists, but immutable. More predictable, but less flexible. Also slightly more performant.
 ### **Set**
 
 ### **Dictionary**
