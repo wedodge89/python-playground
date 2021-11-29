@@ -13,16 +13,16 @@ _-list_: Similar to arrays in other programming languages. An ordered collection
 ### **Tuple**
 _-tuple-_: Similar to lists, but immutable. More predictable, but less flexible. Also slightly more performant.
 ### **Set**
-
+_-set_: 
 ### **Dictionary**
 _-dict-_: An object made up of unordered key/value pairs. Items within are accessed using the key, rather than an index.
 ### **Complex Number**
 _-complex_: A number containing both real and imaginary parts.
+### **None**
+-_None_: A data type with "null" value.
 
 ## Classes
 Custom types, as created by the user.
 
 ## Specialized Data Types
 Not built into Python, but stored in packages, module, libraries. Like *extensions* of the language.
-
-## None
