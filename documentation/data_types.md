@@ -13,7 +13,7 @@ _-list_: Similar to arrays in other programming languages. An ordered collection
 ### **Tuple**
 _-tuple-_: Similar to lists, but immutable. More predictable, but less flexible. Also slightly more performant.
 ### **Set**
-_-set_: 
+_-set_: Unordered collections of unique objects.
 ### **Dictionary**
 _-dict-_: An object made up of unordered key/value pairs. Items within are accessed using the key, rather than an index.
 ### **Complex Number**
