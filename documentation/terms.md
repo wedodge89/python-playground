@@ -14,3 +14,6 @@ Inability to be changed. For example, specific indexes of a string cannot be alt
 
 ## Logical Operators
 Terms/symbols like _and_, _or_, _>_, _<_, _==_ that compare or combine multiple items.
+
+## Loops
+Pieces of code that repeat until a certain condition is fulfilled.
