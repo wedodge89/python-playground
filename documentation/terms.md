@@ -17,3 +17,9 @@ Terms/symbols like _and_, _or_, _>_, _<_, _==_ that compare or combine multiple 
 
 ## Loops
 Pieces of code that repeat until a certain condition is fulfilled.
+
+## Parameters
+Variables named inside of the parentheses when defining a function name that can be used inside of the function.
+
+## Arguments
+The values passed into the parentheses when calling a function that will determine how the function runs.

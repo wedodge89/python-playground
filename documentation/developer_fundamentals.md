@@ -16,3 +16,9 @@ Guidelines:
 Some data structures make more sense in certain situations than others. A good programmer gets familiar with these situations so that they can use the best, most efficient data for a given situation.
 * _Lists_ work well for data that needs to stay in order.
 * _Dictionaries_ work well for data where order is not important, but where different values and data types work together.
+
+## 4. What is good code?
+* Clean-Follows a style endorsed by language-specific community. No extraneous details or comments. Clear what each line of code does.
+* Readable-Easy to understand. Comments are concise and helpful. Variable names that make clear their purpose.
+* Predictability-Code is not so compact or feature-dense that it is difficult to tell what it does.
+* DRY-*D*on't *R*epeat *Y*ourself. Use functions, arguments, conditionals, etc. to keep code from being repetitive.
