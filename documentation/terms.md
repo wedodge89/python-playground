@@ -23,3 +23,6 @@ Variables named inside of the parentheses when defining a function name that can
 
 ## Arguments
 The values passed into the parentheses when calling a function that will determine how the function runs.
+
+## Scope
+Which variables can be accessed at a given point in code.
