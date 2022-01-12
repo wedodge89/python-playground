@@ -22,3 +22,8 @@ Some data structures make more sense in certain situations than others. A good p
 * Readable-Easy to understand. Comments are concise and helpful. Variable names that make clear their purpose.
 * Predictability-Code is not so compact or feature-dense that it is difficult to tell what it does.
 * DRY-*D*on't *R*epeat *Y*ourself. Use functions, arguments, conditionals, etc. to keep code from being repetitive.
+
+## 5. Test your assumptions.
+* You should know and be able to predict how code will work.
+* You should understand code well enough to teach others.
+* Use print() or return to investiage objects.
