@@ -12,3 +12,9 @@
     variable =/= vArIaBlE
 ### Don't overwrite keywords
     Cannot have names like "print" or "type"
+
+## Four Pillars of OOP
+1. Encapsulation-binding data and functions together into an object. An object should function in a way that dictionaries can't.
+2. Abstraction-Make only necessary information visible to users/program as appropriate. 
+3. Inheritance-Allows new objects to receive attributes from parents.
+4. Polymorphism-Object classes can share methods w/ same name, that serve different purposes 
